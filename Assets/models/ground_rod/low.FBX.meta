@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 6f5e5c16609dfde40bcad1b9edcad4d0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: newlowBox001
+    100004: newlowBox004
+    100006: newlowCylinder001
+    100008: newlowCylinder022
+    100010: newlowCylinder023
+    100012: newlowCylinder024
+    100014: newlowLine001
+    100016: newlowPlane004
+    100018: newlowwCylinder021
+    400000: //RootNode
+    400002: newlowBox001
+    400004: newlowBox004
+    400006: newlowCylinder001
+    400008: newlowCylinder022
+    400010: newlowCylinder023
+    400012: newlowCylinder024
+    400014: newlowLine001
+    400016: newlowPlane004
+    400018: newlowwCylinder021
+    2100000: No Name
+    2300000: newlowBox001
+    2300002: newlowBox004
+    2300004: newlowCylinder001
+    2300006: newlowCylinder022
+    2300008: newlowCylinder023
+    2300010: newlowCylinder024
+    2300012: newlowLine001
+    2300014: newlowPlane004
+    2300016: newlowwCylinder021
+    3300000: newlowBox001
+    3300002: newlowBox004
+    3300004: newlowCylinder001
+    3300006: newlowCylinder022
+    3300008: newlowCylinder023
+    3300010: newlowCylinder024
+    3300012: newlowLine001
+    3300014: newlowPlane004
+    3300016: newlowwCylinder021
+    4300000: newlowwCylinder021
+    4300002: newlowPlane004
+    4300004: newlowLine001
+    4300006: newlowCylinder024
+    4300008: newlowCylinder023
+    4300010: newlowCylinder022
+    4300012: newlowCylinder001
+    4300014: newlowBox004
+    4300016: newlowBox001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

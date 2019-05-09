@@ -1,0 +1,185 @@
+fileFormatVersion: 2
+guid: 7a615ac313af4524cb2b0cab2f91cd7f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Circle059
+    100002: Circle060
+    100004: Circle061
+    100006: Circle062
+    100008: Circle063
+    100010: Circle064
+    100012: Loft005
+    100014: Loft006
+    100016: Loft007
+    100018: //RootNode
+    100020: Object026
+    100022: Rectangle6741
+    100024: smdimport
+    100026: "\u4F5C\u4E1A\u630E\u5305001"
+    100028: "\u9501\u6263"
+    100030: "\u9501\u6263002"
+    100032: "\u9501\u6263003"
+    100034: "\u9501\u62631"
+    400000: Circle059
+    400002: Circle060
+    400004: Circle061
+    400006: Circle062
+    400008: Circle063
+    400010: Circle064
+    400012: Loft005
+    400014: Loft006
+    400016: Loft007
+    400018: //RootNode
+    400020: Object026
+    400022: Rectangle6741
+    400024: smdimport
+    400026: "\u4F5C\u4E1A\u630E\u5305001"
+    400028: "\u9501\u6263"
+    400030: "\u9501\u6263002"
+    400032: "\u9501\u6263003"
+    400034: "\u9501\u62631"
+    2100000: 03 - Default
+    2100002: 'Material #24'
+    2100004: 'Material #1411751'
+    2100006: 'Material #1411478'
+    2100008: 15 - Defsdsault
+    2100010: 05 - Default
+    2100012: 06 - Defauslt
+    2100014: 'Material #1411405'
+    2100016: 12 - Defasdslt
+    2100018: 06 - Dsefault
+    2300000: Circle059
+    2300002: Circle061
+    2300004: Circle062
+    2300006: Circle063
+    2300008: Circle064
+    2300010: Loft005
+    2300012: Loft006
+    2300014: Loft007
+    2300016: Object026
+    2300018: Rectangle6741
+    2300020: smdimport
+    2300022: "\u4F5C\u4E1A\u630E\u5305001"
+    2300024: "\u9501\u6263"
+    2300026: "\u9501\u6263002"
+    2300028: "\u9501\u6263003"
+    2300030: "\u9501\u62631"
+    3300000: Circle059
+    3300002: Circle061
+    3300004: Circle062
+    3300006: Circle063
+    3300008: Circle064
+    3300010: Loft005
+    3300012: Loft006
+    3300014: Loft007
+    3300016: Object026
+    3300018: Rectangle6741
+    3300020: smdimport
+    3300022: "\u4F5C\u4E1A\u630E\u5305001"
+    3300024: "\u9501\u6263"
+    3300026: "\u9501\u6263002"
+    3300028: "\u9501\u6263003"
+    3300030: "\u9501\u62631"
+    4300000: smdimport
+    4300002: "\u4F5C\u4E1A\u630E\u5305001"
+    4300004: Loft007
+    4300006: Circle059
+    4300008: Loft005
+    4300010: Circle061
+    4300012: Rectangle6741
+    4300014: "\u9501\u6263"
+    4300016: "\u9501\u62631"
+    4300018: Object026
+    4300020: Circle062
+    4300022: Circle064
+    4300024: "\u9501\u6263002"
+    4300026: Circle063
+    4300028: "\u9501\u6263003"
+    4300030: Loft006
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
