@@ -1,19 +1,27 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 
 public class GridPanelUI : MonoBehaviour
 {
-    public Transform[] grids;
+//    public Transform[] grids;
+    public List<Transform> gridList;
     
     public Transform GetEmptyGrid()
     {
-        for (int i = 0; i < grids.Length; i++)
+        for (int i = 0; i < gridList.Count; i++)
         {
-            if (grids[i].childCount == 0)
+            if (gridList[i].childCount == 0)
             {
-                return grids[i];
+                return gridList[i];
             }
         }
 
         return null;
+    }
+
+    public void MoveGridToLast(GameObject gridToBeMoved)
+    {
+        gridList.Remove(gridToBeMoved.transform);
+        gridList.Add(gridToBeMoved.transform);
     }
 }

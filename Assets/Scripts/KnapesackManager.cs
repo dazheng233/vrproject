@@ -156,6 +156,7 @@ public class KnapesackManager : MonoBehaviour
         vrtkObjectAutoGrab.enabled = true;
 
         DeleteSelectedItemFromBackpack();
+        currentGrid.transform.SetAsLastSibling();
     }
 
     //删除当前grid下所有的子物体并从GridItem字典中移除该项
@@ -168,5 +169,6 @@ public class KnapesackManager : MonoBehaviour
             Destroy(currentGrid.transform.GetChild(0).gameObject);
         }
         ItemModel.DeleteItem(currentGrid.name);
+        gridPanelUi.MoveGridToLast(currentGrid);
     }
 }
